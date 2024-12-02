@@ -7,6 +7,8 @@ Commit de <a href="https://github.com/joaquinvictorias" target="_blank">joaquinv
 otro commit
 
 
+Y este es el primer commit de Richard
+
 Hola soy Jhonson
 Hola clase
 Commit de Paola 
